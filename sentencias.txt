@@ -36,7 +36,14 @@ git config --global user.name "juan José"
 git config --global user.email "core@qskakdpos.com"
 
 git log ---> me muestra el historial de commits
+git status --stat ----->> ver cambios detallados
+
 
 git show ---> me muetsra comparacion de camnbios
+
+
+git checkout {codigo del commit} {NOMBRE DEL ARCHIVO}
+
+
 
 
