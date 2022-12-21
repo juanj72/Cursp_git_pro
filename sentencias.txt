@@ -36,7 +36,7 @@ git config --global user.name "juan José"
 git config --global user.email "core@qskakdpos.com"
 
 git log ---> me muestra el historial de commits
-git status --stat ----->> ver cambios detallados
+git log --stat ----->> ver cambios detallados
 
 
 git show ---> me muetsra comparacion de camnbio
@@ -48,10 +48,11 @@ git diff {codigo de commit} {codigo de commit a comparar}
 
 
 
-version de prueba de ultima version de este archivo
 
 
 git checkout {codigo del commit} {NOMBRE DEL ARCHIVO}
+
+no confundir git reset con git rm, NO SON IGUALES
 
 
 
