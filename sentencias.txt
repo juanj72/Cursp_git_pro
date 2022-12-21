@@ -34,3 +34,9 @@ git config----Configuracion de git
 git config --list (ver configuraciones actuales)
 git config --global user.name "juan José"
 git config --global user.email "core@qskakdpos.com"
+
+git log ---> me muestra el historial de commits
+
+git show ---> me muetsra comparacion de camnbios
+
+
