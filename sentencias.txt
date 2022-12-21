@@ -41,4 +41,6 @@ git show ---> me muetsra comparacion de camnbio
 
 pantalla de commits sin mensajes para guardar y salir se hace tecla escape, despues shift+ZZ
 
+git diff {codigo de commit} {codigo de commit a comparar}
+
 
