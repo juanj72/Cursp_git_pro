@@ -11,3 +11,26 @@ git commit -m "first commit"
 git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
 
 git push -u origin master
+
+
+CREACION CARPETA
+comando---> mkdir {nombre}
+
+
+comandos principales
+pwd---> nos muestra el path o ruta de la carpeta en donde nos encontramos
+cd ----> me permite salir de la carpeta, retroceder
+ls---> listar los archivos
+
+clear--->limpiar 
+touch--> crear archivos
+history--->historial de comandos
+rm---> remueve archivos, borrar archivos
+
+
+git rm --cached {nombre del archivo} ---> saca el archivo de los agregados a subir a repositorio
+
+git config----Configuracion de git
+git config --list (ver configuraciones actuales)
+git config --global user.name "juan José"
+git config --global user.email "core@qskakdpos.com"
