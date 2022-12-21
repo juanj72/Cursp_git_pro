@@ -44,3 +44,8 @@ pantalla de commits sin mensajes para guardar y salir se hace tecla escape, desp
 git diff {codigo de commit} {codigo de commit a comparar}
 
 
+
+
+version de prueba de ultima version de este archivo
+
+
