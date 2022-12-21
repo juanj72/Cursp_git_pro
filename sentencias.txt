@@ -37,6 +37,8 @@ git config --global user.email "core@qskakdpos.com"
 
 git log ---> me muestra el historial de commits
 
-git show ---> me muetsra comparacion de camnbios
+git show ---> me muetsra comparacion de camnbio
+
+pantalla de commits sin mensajes para guardar y salir se hace tecla escape, despues shift+ZZ
 
 
