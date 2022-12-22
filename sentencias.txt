@@ -78,4 +78,11 @@ git log > log.txt - guardar los logs en un archivo txt
 
 
 
+git commit -am "nombre del cambio"-----agrega y realiza el commit a la vez
+
+git branch {nombre rama }----------creacion de rama nueva desde el punto donde esta la actual
+
+git merge {nombre de la rama} se hace merge desde la rama actual para traer los cambios desde la rama externa
+
+
 
