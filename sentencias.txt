@@ -12,6 +12,12 @@ git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
 
 git push -u origin master
 
+git remote
+
+git remote -v ----> me indica el repositorio remoto al que estoy conectado
+
+
+
 
 CREACION CARPETA
 comando---> mkdir {nombre}
@@ -85,4 +91,8 @@ git branch {nombre rama }----------creacion de rama nueva desde el punto donde e
 git merge {nombre de la rama} se hace merge desde la rama actual para traer los cambios desde la rama externa
 
 
+
+git remote
+
+git remote -v ----> me indica el repositorio remoto al que estoy conectado
 
