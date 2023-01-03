@@ -100,3 +100,7 @@ prueba
 
 configuracion llave
 ssh-keygen -t rsa -b 4096 -C {correo electronico al que está conectado mi github}------ guardarlo en el home del sistema op para windows
+
+
+
+
