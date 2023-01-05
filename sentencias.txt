@@ -110,3 +110,11 @@ alias {nombre}="comando de git" --- le pone un alias a un comando de git
 
 git tag -a v0.1 -m "{mensaje para la version del proyecto}" {hash del commit que quiero nombrar version}
 
+git show-ref --tags   (hace referencia al hash de un tag que ha sido renombrado)
+
+git push origin --tags ( con esto se suben los tags en github)
+
+git tag  (listar tags)
+git tag -d {nombre del tag a eliminar}
+
+git push origin :refs/tags/{nombre del tag}  para eliminar un tag en el repo origen.
