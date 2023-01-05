@@ -125,3 +125,12 @@ git show-branch --all mas informacion de las ramas
 
 
 gitk --- abre entorno grafico de git
+
+
+git reset. Este comando tiene tres formas de invocación: –hard, –mixed y –soft.
+gti reflog para reahcer los cambios que se deshicieron
+
+
+git rebase MUY MALA PRACTICA, crea una rama y se pega en la ppal, sin dejar historial, reescribe la historia del repositorio
+
+
