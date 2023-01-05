@@ -90,6 +90,7 @@ git log --all --graph --decorate --oneline
 git commit -am "nombre del cambio"-----agrega y realiza el commit a la vez
 
 git branch {nombre rama }----------creacion de rama nueva desde el punto donde esta la actual
+git branh -d {nombre de la rama a eliminar}
 
 git merge {nombre de la rama} se hace merge desde la rama actual para traer los cambios desde la rama externa
 
@@ -134,3 +135,9 @@ gti reflog para reahcer los cambios que se deshicieron
 git rebase MUY MALA PRACTICA, crea una rama y se pega en la ppal, sin dejar historial, reescribe la historia del repositorio
 
 
+git stash guardar cambios en memoria y recuperarlos despues
+git stash list listar cambios en memoria disponibles
+git stash pop revertir cambios realizados
+
+
+git clean
