@@ -140,4 +140,16 @@ git stash list listar cambios en memoria disponibles
 git stash pop revertir cambios realizados
 
 
-git clean
+git clean --dry-run (borra archivos no carpetas)
+git clena -f (borra solo los archivos)
+
+
+git cherry-pick  (trae commits viejos al head de un branch) tarer un commit de otra rama a la que se está usando
+
+git reset y reflog  usese en caso de emergencia muestra TODO el historial.
+
+
+//*/*/*/*/*/*/
+recostruir commits
+
+git commit --amend reconstruir commmit, remendarlo
