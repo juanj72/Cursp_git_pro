@@ -108,4 +108,5 @@ alias
 
 alias {nombre}="comando de git" --- le pone un alias a un comando de git
 
+git tag -a v0.1 -m "{mensaje para la version del proyecto}" {hash del commit que quiero nombrar version}
 
