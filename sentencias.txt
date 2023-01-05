@@ -118,3 +118,10 @@ git tag  (listar tags)
 git tag -d {nombre del tag a eliminar}
 
 git push origin :refs/tags/{nombre del tag}  para eliminar un tag en el repo origen.
+
+
+git show-branch
+git show-branch --all mas informacion de las ramas
+
+
+gitk --- abre entorno grafico de git
