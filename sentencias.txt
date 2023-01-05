@@ -81,6 +81,8 @@ git log --grep=“INVIE” –i- Busca los commits que cumplan sin importar may�
 git log – index.html- Busca los commits en un archivo en específico.
 git log -S “Por contenido”- Buscar los commits con el contenido dentro del archivo.
 git log > log.txt - guardar los logs en un archivo txt
+git log --all mostrar todo
+
 
 
 
@@ -101,6 +103,8 @@ prueba
 configuracion llave
 ssh-keygen -t rsa -b 4096 -C {correo electronico al que está conectado mi github}------ guardarlo en el home del sistema op para windows
 
+alias
 
+alias {nombre}="comando de git" --- le pone un alias a un comando de git
 
 
